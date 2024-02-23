@@ -1,0 +1,17 @@
+C:\Users\gr275790\source\repos\graafiset-k-ytt-liittym-t-Joel-Rentola\15_Lopputyo\Lopputyo\bin\Debug\net6.0-windows\Lopputyo.exe
+C:\Users\gr275790\source\repos\graafiset-k-ytt-liittym-t-Joel-Rentola\15_Lopputyo\Lopputyo\bin\Debug\net6.0-windows\Lopputyo.deps.json
+C:\Users\gr275790\source\repos\graafiset-k-ytt-liittym-t-Joel-Rentola\15_Lopputyo\Lopputyo\bin\Debug\net6.0-windows\Lopputyo.runtimeconfig.json
+C:\Users\gr275790\source\repos\graafiset-k-ytt-liittym-t-Joel-Rentola\15_Lopputyo\Lopputyo\bin\Debug\net6.0-windows\Lopputyo.dll
+C:\Users\gr275790\source\repos\graafiset-k-ytt-liittym-t-Joel-Rentola\15_Lopputyo\Lopputyo\bin\Debug\net6.0-windows\Lopputyo.pdb
+C:\Users\gr275790\source\repos\graafiset-k-ytt-liittym-t-Joel-Rentola\15_Lopputyo\Lopputyo\obj\Debug\net6.0-windows\Lopputyo.csproj.AssemblyReference.cache
+C:\Users\gr275790\source\repos\graafiset-k-ytt-liittym-t-Joel-Rentola\15_Lopputyo\Lopputyo\obj\Debug\net6.0-windows\Lopputyo.csproj.GenerateResource.cache
+C:\Users\gr275790\source\repos\graafiset-k-ytt-liittym-t-Joel-Rentola\15_Lopputyo\Lopputyo\obj\Debug\net6.0-windows\Lopputyo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr275790\source\repos\graafiset-k-ytt-liittym-t-Joel-Rentola\15_Lopputyo\Lopputyo\obj\Debug\net6.0-windows\Lopputyo.AssemblyInfoInputs.cache
+C:\Users\gr275790\source\repos\graafiset-k-ytt-liittym-t-Joel-Rentola\15_Lopputyo\Lopputyo\obj\Debug\net6.0-windows\Lopputyo.AssemblyInfo.cs
+C:\Users\gr275790\source\repos\graafiset-k-ytt-liittym-t-Joel-Rentola\15_Lopputyo\Lopputyo\obj\Debug\net6.0-windows\Lopputyo.csproj.CoreCompileInputs.cache
+C:\Users\gr275790\source\repos\graafiset-k-ytt-liittym-t-Joel-Rentola\15_Lopputyo\Lopputyo\obj\Debug\net6.0-windows\Lopputyo.dll
+C:\Users\gr275790\source\repos\graafiset-k-ytt-liittym-t-Joel-Rentola\15_Lopputyo\Lopputyo\obj\Debug\net6.0-windows\refint\Lopputyo.dll
+C:\Users\gr275790\source\repos\graafiset-k-ytt-liittym-t-Joel-Rentola\15_Lopputyo\Lopputyo\obj\Debug\net6.0-windows\Lopputyo.pdb
+C:\Users\gr275790\source\repos\graafiset-k-ytt-liittym-t-Joel-Rentola\15_Lopputyo\Lopputyo\obj\Debug\net6.0-windows\Lopputyo.genruntimeconfig.cache
+C:\Users\gr275790\source\repos\graafiset-k-ytt-liittym-t-Joel-Rentola\15_Lopputyo\Lopputyo\obj\Debug\net6.0-windows\ref\Lopputyo.dll
+C:\Users\gr275790\source\repos\graafiset-k-ytt-liittym-t-Joel-Rentola\15_Lopputyo\Lopputyo\obj\Debug\net6.0-windows\Lopputyo.Minesweeper.resources
